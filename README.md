@@ -1,1 +1,1 @@
-# web-prototype-blazor_vuejs_axios_tailwind
+# Prototype of Blazor SSR .net8 with VueJS Axios and Tailwind Integration
